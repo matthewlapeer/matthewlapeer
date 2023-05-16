@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm Matthew (@matthewlapeer)
 
-🔭 I’m currently working on Svetch (open source product for protyping SvelteKit applications) &&  MixETL (open source reverse ETL tool for importing event data from Google Sheets into Mixpanel)
+🔭 I’m currently working on Svetch (open source product for protyping SvelteKit applications) &&  mixETL (open source reverse ETL tool for importing event data from Google Sheets into Mixpanel)
 
 🌱 I’m currently learning Korean and electronics circuitry
 
